@@ -2,7 +2,7 @@
 
 ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/database-SQLite-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-lightblue?style=for-the-badge)
 
 A console-based banking system built in **C++** with **SQLite** database integration.  
