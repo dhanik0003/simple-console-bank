@@ -1,5 +1,5 @@
 # 💳 Bank System (C++ + SQLite)
-(It's my school prject 😁 )
+(It's my school project 😁 )
 
 ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/database-SQLite-green?style=for-the-badge)
