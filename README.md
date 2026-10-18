@@ -4,7 +4,6 @@
 ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/database-SQLite-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-lightblue?style=for-the-badge)
 
 A console-based banking system built in **C++** with **SQLite** database integration.  
 It simulates real-world banking operations for both users and admins with persistent data storage, modular code design, and an interactive terminal interface.
@@ -154,9 +153,3 @@ Contributions are welcome! 🎉
 5. Submit a Pull Request.
 
     Please follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License – feel free to use, modify, and distribute it.
